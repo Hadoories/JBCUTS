@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CutzByKing Barber",
+  title: "JBCUTZ",
   description:
-    "Modern fades, beard sculpting, and classic cuts. Book with CutzByKing for sharp, confident style.",
+    "Modern Cuts. Classic Style. Your next great look starts here.",
 };
 
 export default function RootLayout({
